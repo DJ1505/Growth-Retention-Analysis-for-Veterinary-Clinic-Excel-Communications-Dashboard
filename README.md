@@ -23,4 +23,5 @@ This project demonstrates growth strategy and communications analytics for a vet
 Review the `.xlsx` dashboard live in Excel. See the report and screenshots for insights and presentation material.
 
 ## Author
-[Your Name]
+Dhananjay Kr. Tyagi
+https://www.linkedin.com/in/dhananjaytyagi/
